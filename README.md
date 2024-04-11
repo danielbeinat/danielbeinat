@@ -18,7 +18,7 @@ Interesado por crear aplicaciones web modernas y de alto rendimiento utilizando 
 - Node.js
 - Express.js
 
-### CSS:
+#### Front-end:
 
 - HTML
 - CSS
