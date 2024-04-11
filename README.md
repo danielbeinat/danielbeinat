@@ -3,7 +3,7 @@
 
 ## Sobre Mi
 
-Analista de Sistemas | Desarrollador Front-end, me gusta crear aplicaciones web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
+Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
 
 
 ### Lenguajes y Tecnologías:
@@ -13,22 +13,18 @@ Analista de Sistemas | Desarrollador Front-end, me gusta crear aplicaciones web 
 
 ### Frameworks:
 
-- React
-- Node.js
-- Express.js
+[![Iconos de tecnologías](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
 
 #### Front-end:
 
-- HTML
-- CSS
-- Sass
-- Tailwind CSS
-- Bootstrap
+ [![Iconos de tecnologías](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap)](https://skillicons.dev)
+
 
 ### Bases de Datos:
 
-- MongoDB
-- MySQL
+ [![Iconos de tecnologías](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
 
 ## Cosas en las que estoy trabajando actualmente:
 
