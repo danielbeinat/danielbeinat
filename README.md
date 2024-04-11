@@ -30,12 +30,6 @@ Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web moder
  [![Iconos de tecnologías](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 
-## Cosas en las que estoy trabajando actualmente:
-
-🔭 Proyecto de e-commerce con React, TypeScript y MongoDB
-
-🌱 Aprendiendo Nuevas Tecnologias
-
 ## Objetivos:
 
 👯 Colaborar en proyectos desafiantes e innovadores de código abierto
