@@ -6,9 +6,11 @@
 Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
 
 
+
 ### Lenguajes y Tecnologías:
 
 [![Iconos de tecnologías](https://skillicons.dev/icons?i=js,ts,py,cpp,php)](https://skillicons.dev)
+
 
 
 ### Frameworks:
@@ -16,9 +18,11 @@ Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web moder
 [![Iconos de tecnologías](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
 
 
+
 #### Front-end:
 
  [![Iconos de tecnologías](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap)](https://skillicons.dev)
+
 
 
 ### Bases de Datos:
