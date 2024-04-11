@@ -8,11 +8,8 @@ Analista de Sistemas | Desarrollador Front-end, me gusta crear aplicaciones web 
 
 ### Lenguajes y Tecnologías:
 
-- JavaScript
-- TypeScript
-- Python
-- PHP
-- C++
+[![Iconos de tecnologías](https://skillicons.dev/icons?i=js,ts,py,cpp,php)](https://skillicons.dev)
+
 
 ### Frameworks:
 
