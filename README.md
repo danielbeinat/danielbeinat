@@ -3,7 +3,7 @@
 
 ## Sobre Mi
 
-Analista de Sistemas | Desarrollador Front-end, Interesado por crear aplicaciones web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
+Analista de Sistemas | Desarrollador Front-end, me gusta crear aplicaciones web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
 
 
 ### Lenguajes y Tecnologías:
