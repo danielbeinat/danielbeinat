@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Daniel Beinat
 
 
-## Sobre Mi
+## Sobre Mí
 
 Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
 
