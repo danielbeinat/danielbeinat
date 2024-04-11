@@ -1,16 +1,50 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Daniel Beinat
 
-<!--
-**danielbeinat/danielbeinat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Analista de Sistemas | Desarrollador Front-end
 
-Here are some ideas to get you started:
+Interesado por crear aplicaciones web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes y Tecnologías:
+
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- C++
+
+### Frameworks:
+
+- React
+- Node.js
+- Express.js
+
+### CSS:
+
+- HTML
+- CSS
+- Sass
+- Tailwind CSS
+- Bootstrap
+
+### Bases de Datos:
+
+- MongoDB
+- MySQL
+
+## Cosas en las que estoy trabajando actualmente:
+
+🔭 Proyecto de e-commerce con React, TypeScript y MongoDB
+
+🌱 Aprendiendo Nuevas Tecnologias
+
+## Objetivos:
+
+👯 Colaborar en proyectos desafiantes e innovadores de código abierto
+
+🤔 Explorar nuevas tecnologías y tendencias en el desarrollo web
+
+## Contacto:
+
+- 📫 [Email](mailto:danielbeinat93@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/danielbeinat)
+
