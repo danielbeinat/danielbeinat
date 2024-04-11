@@ -41,10 +41,7 @@ Interesado por crear aplicaciones web modernas y de alto rendimiento utilizando 
 
 👯 Colaborar en proyectos desafiantes e innovadores de código abierto
 
-🤔 Explorar nuevas tecnologías y tendencias en el desarrollo web
+🔍 Explorar nuevas tecnologías y tendencias en el desarrollo web
 
-## Contacto:
 
-- 📫 [Email](mailto:danielbeinat93@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/danielbeinat)
 
