@@ -1,4 +1,7 @@
-# ¡Hi! 👋 Soy Daniel Beinat
+# Hi! 👋 I'm Daniel Beinat.
+
+
+
 
 
 ## About Me
