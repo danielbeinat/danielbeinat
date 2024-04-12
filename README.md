@@ -1,13 +1,20 @@
-# ¡Hola! 👋 Soy Daniel Beinat
+# ¡Hi! 👋 Soy Daniel Beinat
 
 
-## Sobre Mí
-
-Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web modernas y de alto rendimiento utilizando las últimas tecnologías y buenas prácticas.
+## About Me
 
 
+Systems Analyst | Front-end Developer, I enjoy creating modern, high-performance websites using the latest technologies and best practices.
 
-### Lenguajes y Tecnologías:
+
+
+
+
+
+
+
+
+### Languages and Technologies:
 
 [![Iconos de tecnologías](https://skillicons.dev/icons?i=js,ts,py,cpp,php)](https://skillicons.dev)
 
@@ -25,16 +32,16 @@ Analista de Sistemas | Desarrollador Front-end, me gusta crear paginas web moder
 
 
 
-### Bases de Datos:
+### Databases:
 
  [![Iconos de tecnologías](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 
-## Objetivos:
+ ## Objectives:
+ 
+👯 Collaborate on challenging and innovative open-source projects
 
-👯 Colaborar en proyectos desafiantes e innovadores de código abierto
-
-🔍 Explorar nuevas tecnologías y tendencias en el desarrollo web
+🔍 Explore new technologies and trends in web development
 
 
 
