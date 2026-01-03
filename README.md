@@ -7,7 +7,7 @@
 ## About Me
 
 
-Systems Analyst | Front-end Developer, I enjoy creating modern, high-performance websites using the latest technologies and best practices.
+Systems Analyst | Full-Stack Developer, I enjoy creating modern, high-performance websites using the latest technologies and best practices.
 
 
 
