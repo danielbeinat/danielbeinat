@@ -38,12 +38,6 @@ Systems Analyst and **Full-Stack Developer** focused on building high-performanc
 
 ---
 
-### 🎯 Current Focus
-
-* 🤖 **AI Alignment & RLHF:** Training Large Language Models to be more accurate and safe.
-* 🐧 **Open Source:** Enthusiast of lightweight systems (Loc-OS power user) and performance optimization.
-* ⚡ **Performance:** Developing efficient software on low-resource hardware.
-
 ### 🌐 Languages
 * **Spanish:** Native (Argentina)
 * **English:** C1 Advanced (Professional working proficiency)
